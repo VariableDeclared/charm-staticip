@@ -1,0 +1,13 @@
+options:
+  binding:
+    type: string
+    default: "public"
+    description: "The space to make static"
+  # boolean-option:
+  #   type: boolean
+  #   default: False
+  #   description: "A short description of the configuration option"
+  # int-option:
+  #   type: int
+  #   default: 9001
+  #   description: "A short description of the configuration option"

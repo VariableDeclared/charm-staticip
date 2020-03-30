@@ -1,0 +1,19 @@
+name: charm-staticip
+summary: A charm to attach make the IP of machines static.
+maintainer: Peter De Sousa <peter.de.sousa@canonical.com>
+description: |
+  A charm to attach make the IP of machines static.
+tags:
+  # Replace "misc" with one or more whitelisted tags from this list:
+  # https://jujucharms.com/docs/stable/authors-charm-metadata
+  - misc
+subordinate: true
+# provides:
+#   provides-relation:
+#     interface: interface-name
+# requires:
+#   requires-relation:
+#     interface: interface-name
+# peers:
+#   peer-relation:
+#     interface: interface-name
